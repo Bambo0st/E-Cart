@@ -1,0 +1,6 @@
+*************** ADMIN RECEIPT ***************:
+ProductID	ProductName	Quantity	Price
+1              p1             	100	10
+2              p2             	50	20
+3              p3             	60	30
+4              p4             	200	70
