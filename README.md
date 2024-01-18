@@ -58,4 +58,4 @@ Terminal 2:
 ```
 
 Proceed to choose the options based on your choice, more detailed description about the options can be found in the
-[Link to Example ](OS_Report.pdf).
+[Report](OS_Report.pdf).
